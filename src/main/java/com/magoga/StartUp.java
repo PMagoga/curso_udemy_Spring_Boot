@@ -1,13 +1,13 @@
-package com.magoga.rest_spring;
+package com.magoga;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestSpringApplication {
+public class StartUp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestSpringApplication.class, args);
+		SpringApplication.run(StartUp.class, args);
 	}
 
 }

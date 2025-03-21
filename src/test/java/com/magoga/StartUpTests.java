@@ -1,10 +1,10 @@
-package com.magoga.rest_spring;
+package com.magoga;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestSpringApplicationTests {
+class StartUpTests {
 
 	@Test
 	void contextLoads() {
