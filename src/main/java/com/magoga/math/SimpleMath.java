@@ -1,6 +1,5 @@
 package com.magoga.math;
 
-import com.magoga.exception.UnsupportedMathOperationException;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
